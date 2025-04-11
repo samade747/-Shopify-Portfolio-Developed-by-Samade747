@@ -17,7 +17,7 @@ Whether you're a startup, a brand, or an enterprise, I help you build beautiful,
 
 ---
 
-## 🌟 Client Shopify Stores I Have Built
+## 🌟 Client Shopify Stores I Have Built 
 
 Here’s a list of Shopify stores I’ve developed (brand names anonymized or slightly edited to respect privacy):
 
