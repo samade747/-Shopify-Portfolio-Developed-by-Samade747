@@ -29,10 +29,10 @@ Here’s a list of Shopify stores I’ve developed (brand names anonymized or sl
 - Buybox
 - Buyfi
 - caprakart
-- car seat X lb
+- car seat
 - Chic Hive
 - colourist
-- comfrot bazar X lb
+- comfrot bazar 
 - Cyber Bazar
 - ezkharedari
 - Gadgetgalaxy
