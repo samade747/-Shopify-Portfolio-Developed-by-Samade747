@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=samade747&style=flat-square)
+
 # 🛍️ Shopify Portfolio – Developed by [Samade747](https://github.com/samade747)
 
 Welcome to my Shopify development portfolio! I'm a freelance Shopify expert with experience building **100+ high-converting Shopify stores** for clients across different industries.
@@ -243,6 +245,8 @@ Looking to launch or revamp your Shopify store? Let’s build something amazing 
 📩 **Reach Out:**  
 - LinkedIn: [https://www.linkedin.com/in/samade747](https://www.linkedin.com/in/samade747)  
 - GitHub: [https://github.com/samade747](https://github.com/samade747)
+
+- ![Profile Views](https://komarev.com/ghpvc/?username=samade747&style=flat-square)
 
 ---
 
