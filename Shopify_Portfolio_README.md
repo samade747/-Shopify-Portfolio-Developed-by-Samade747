@@ -9,7 +9,6 @@ Whether you're a startup, a brand, or an enterprise, I help you build beautiful,
 ## 🚀 What I Do
 - ✅ Custom Shopify Store Development  
 - ✅ Theme Customization using Liquid  
-- ✅ Dropshipping Store Setup  
 - ✅ Shopify Store Redesigns  
 - ✅ Speed & SEO Optimization  
 - ✅ App Integrations & Automation  
