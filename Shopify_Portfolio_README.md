@@ -23,14 +23,14 @@ Here’s a list of Shopify stores I’ve developed (brand names anonymized or sl
 - Bastaches N Cart
 - Bazaries
 - buy2smile
-- buyatsouq\
+- buyatsouq
 - Buybox
 - Buyfi
 - caprakart
-- car seat X lb
+- car seat 
 - Chic Hive
 - colourist
-- comfrot bazar\
+- comfrot bazar
 - Cyber Bazar
 - ezkharedari
 - Gadgetgalaxy
